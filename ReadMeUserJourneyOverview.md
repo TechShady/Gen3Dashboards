@@ -29,7 +29,7 @@ Required: [Configure Key User Actions](https://www.dynatrace.com/support/help/pl
 
 # Install Instructions
 
-- Download https://github.com/TechShady/Gen3Dashboards/blob/main/User%20Journey%20Overview.json
+- Download [Dashboard JSON](https://github.com/TechShady/Gen3Dashboards/blob/main/User%20Journey%20Overview.json)
 - Launch the new Gen3 UI
 - Select the Dashboard app
 - In the upper righthand corner, select Upload and select your json file
