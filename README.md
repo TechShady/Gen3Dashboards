@@ -4,34 +4,34 @@ This repo provides Business Grade Dashboards for Dynatrace Gen3. Download any co
 
 ## Code Tile Examples
 
-- [Single Value](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/SingleValue.json) 
-- [Table](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Table.json) 
-- [Categorical Bar Chart](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/CBC.json) 
-- [Timeseries Chart](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/TSC.json) 
-- [Pie Chart](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/PC.json)
+- [Single Value](https://github.com/TechShady/Gen3Dashboards/blob/main/SingleValue.json) 
+- [Table](https://github.com/TechShady/Gen3Dashboards/blob/main/Table.json) 
+- [Categorical Bar Chart](https://github.com/TechShady/Gen3Dashboards/blob/main/CBC.json) 
+- [Timeseries Chart](https://github.com/TechShady/Gen3Dashboards/blob/main/TSC.json) 
+- [Pie Chart](https://github.com/TechShady/Gen3Dashboards/blob/main/PC.json)
 
 ## Code Variable Examples
 
-- [Applications](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Apps.json) 
-- [FrictionKPI](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/FrictionVariable.json) 
+- [Applications](https://github.com/TechShady/Gen3Dashboards/blob/main/Apps.json) 
+- [FrictionKPI](https://github.com/TechShady/Gen3Dashboards/blob/main/FrictionVariable.json) 
 
 ## Business Dashboard Content Library
 
-- [User Experience Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeExecutiveOverview.md)
+- [User Experience Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeExecutiveOverview.md)
 ![User Experience Overview Dashboard](ExecutiveOverview.png)
-- [Conversion Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeConversionOverview.md)
+- [Conversion Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeConversionOverview.md)
 ![Conversion Overview Dashboard](ConversionOverview.png)
-- [Revenue Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeRevenueOverview.md)
+- [Revenue Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeRevenueOverview.md)
 ![Revenue Overview Dashboard](RevenueOverview.png)
-- [Application Business Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeApplicationBusinessOverview.md)
+- [Application Business Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeApplicationBusinessOverview.md)
 ![Application Business Overview Dashboard](ApplicationBusinessOverview.png)
-- [Application Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeApplicationOverview.md)
+- [Application Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeApplicationOverview.md)
 ![Application Overview Dashboard](ApplicationOverview.png)
-- [Key User Action Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeKUAOverview.md)
+- [Key User Action Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeKUAOverview.md)
 ![Key User Action Overview Dashboard](KUAOverview.png)
-- [Core Web Vitals Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeCoreWebVitalsOverview.md)
+- [Core Web Vitals Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeCoreWebVitalsOverview.md)
 ![Core Web Vitals Overview Dashboard](CoreWebVitalsOverview.png)
-- [Portfolio Overview Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMePortfolioOverview.md)
+- [Portfolio Overview Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMePortfolioOverview.md)
 ![Portfolio Overview Dashboard](PortfolioOverview.png)
-- [Traffic Simulator Dashboard](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/ReadMeTrafficSimulator.md)
+- [Traffic Simulator Dashboard](https://github.com/TechShady/Gen3Dashboards/blob/main/ReadMeTrafficSimulator.md)
 ![Traffic Simulator Dashboard](TrafficSimulator.png)
