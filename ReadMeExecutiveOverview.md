@@ -31,7 +31,7 @@ Required: [Create a conversion goal](https://www.dynatrace.com/support/help/plat
 
 # Install Instructions
 
-- Download [Dashboard JSON](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/User%20Experience%20Overview.json)
+- Download [Dashboard JSON](https://github.com/TechShady/Gen3Dashboards/blob/main/User%20Experience%20Overview.json)
 - Launch the new Gen3 UI
 - Select the Dashboard app
 - In the upper righthand corner, select Upload and select your json file
