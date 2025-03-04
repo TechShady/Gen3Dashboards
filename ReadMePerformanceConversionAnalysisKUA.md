@@ -24,7 +24,7 @@ Required: [Create a session property](https://www.dynatrace.com/support/help/pla
 
 # Install Instructions
 
-- Download [Dashboard JSON](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Performance%20Conversion%20Analysis%20(KUA).json)
+- Download [Dashboard JSON](https://github.com/TechShady/Gen3Dashboards/blob/main/Performance%20Conversion%20Analysis%20(KUA).json)
 - Launch the new Gen3 UI
 - Select the Dashboard app
 - In the upper righthand corner, select Upload and select your json file
