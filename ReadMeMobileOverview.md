@@ -30,7 +30,7 @@ None.
 
 # Install Instructions
 
-- Download https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Mobile%20Overview.json
+- Download https://github.com/TechShady/Gen3Dashboards/blob/main/Mobile%20Overview.json
 - Or Download V2 (removes timeseries graph and adds more pie charts) https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Mobile%20Overview%20V2.json
 - Launch the new Gen3 UI
 - Select the Dashboard app
