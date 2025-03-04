@@ -25,7 +25,7 @@ None.
   
 # Install Instructions
 
-- Download [Dashboard JSON](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Traffic%20Simulator.json)
+- Download [Dashboard JSON](https://github.com/TechShady/Gen3Dashboards/blob/main/Traffic%20Simulator.json)
 - Launch the new Gen3 UI
 - Select the Dashboard app
 - In the upper righthand corner, select Upload and select your json file
